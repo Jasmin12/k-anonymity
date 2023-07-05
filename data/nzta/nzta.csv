@@ -1,0 +1,66 @@
+Name;CarMake;CarModel;Year;NumberPlate;Gender;Age;Date;PrimaryContributor;CrashSeverity,Zipcode
+John Smith;Toyota;Corolla;2017;ABC-1234;Male;34;2021-03-12;Yes;non-fatal,65001
+John Smith;Toyota;Corolla;2017;ABC-1234;Male;34;2022-03-31;No;non-fatal,94005
+John Smith;Toyota;Corolla;2017;ABC-1234;Male;34;2022-01-01;No;extremely,42955
+John Smith;Toyota;Corolla;2017;ABC-1234;Male;34;2022-01-14;Yes;extremely,36306
+John Smith;Toyota;Corolla;2017;ABC-1234;Male;34;2021-12-02;No;non-fatal,41615
+John Smith;Toyota;Corolla;2017;ABC-1234;Male;34;2021-06-12;No;extremely,65675
+John Smith;Toyota;Corolla;2017;ABC-1234;Male;34;2022-11-06;No;extremely,60545
+John Smith;Toyota;Corolla;2017;ABC-1234;Male;34;2022-01-19;No;severe,95708
+John Smith;Toyota;Corolla;2017;ABC-1234;Male;34;2020-02-09;No;extremely,88188
+Jane Doe;Honda;Civic;2019;XYZ-5678;Female;28;2020-07-25;Yes;non-fatal,87806
+Jane Doe;Honda;Civic;2019;XYZ-5678;Female;28;2022-02-06;Yes;extremely,57243
+Jane Doe;Honda;Civic;2019;XYZ-5678;Female;28;2021-09-01;Yes;non-fatal,60663
+Jane Doe;Honda;Civic;2019;XYZ-5678;Female;28;2022-03-07;No;severe,76554
+Jane Doe;Honda;Civic;2019;XYZ-5678;Female;28;2022-07-30;Yes;extremely,83654
+Jane Doe;Honda;Civic;2019;XYZ-5678;Female;28;2020-12-26;No;extremely,96890
+Michael Johnson;Ford;Focus;2018;JKL-4321;Male;45;2022-11-24;Yes;extremely,64037
+Michael Johnson;Ford;Focus;2018;JKL-4321;Male;45;2021-08-03;No;non-fatal,32096
+Emily Brown;Nissan;Altima;2016;MNO-9876;Female;31;2022-09-03;No;extremely,42868
+Emily Brown;Nissan;Altima;2016;MNO-9876;Female;31;2022-08-21;No;severe,74612
+Daniel Davis;Chevrolet;Impala;2020;PQR-6543;Male;52;2022-09-30;No;extremely,68965
+Daniel Davis;Chevrolet;Impala;2020;PQR-6543;Male;52;2020-10-13;Yes;extremely,34986
+Daniel Davis;Chevrolet;Impala;2020;PQR-6543;Male;52;2021-07-08;No;severe,74361
+Daniel Davis;Chevrolet;Impala;2020;PQR-6543;Male;52;2021-06-13;No;non-fatal,16253
+Daniel Davis;Chevrolet;Impala;2020;PQR-6543;Male;52;2020-07-04;Yes;extremely,71858
+Daniel Davis;Chevrolet;Impala;2020;PQR-6543;Male;52;2021-06-05;No;severe,14597
+Daniel Davis;Chevrolet;Impala;2020;PQR-6543;Male;52;2021-10-05;No;severe,21566
+Sophia Miller;BMW;3 Series;2019;STU-1111;Female;29;2020-03-02;No;non-fatal,11315
+Sophia Miller;BMW;3 Series;2019;STU-1111;Female;29;2020-03-18;No;extremely,21571
+Sophia Miller;BMW;3 Series;2019;STU-1111;Female;29;2020-09-13;Yes;severe,55768
+Sophia Miller;BMW;3 Series;2019;STU-1111;Female;29;2020-12-05;Yes;extremely,47646
+Sophia Miller;BMW;3 Series;2019;STU-1111;Female;29;2021-12-21;No;extremely,26670
+Sophia Miller;BMW;3 Series;2019;STU-1111;Female;29;2020-03-16;No;non-fatal,32030
+Sophia Miller;BMW;3 Series;2019;STU-1111;Female;29;2021-12-03;Yes;extremely,66004
+Sophia Miller;BMW;3 Series;2019;STU-1111;Female;29;2020-02-05;Yes;extremely,69777
+Olivia Wilson;Mercedes-Benz;C-Class;2020;VWX-2468;Female;43;2022-09-21;Yes;extremely,59610
+Olivia Wilson;Mercedes-Benz;C-Class;2020;VWX-2468;Female;43;2021-11-14;Yes;extremely,50539
+Olivia Wilson;Mercedes-Benz;C-Class;2020;VWX-2468;Female;43;2022-01-22;No;extremely,63313
+Olivia Wilson;Mercedes-Benz;C-Class;2020;VWX-2468;Female;43;2022-01-27;Yes;extremely,29765
+Olivia Wilson;Mercedes-Benz;C-Class;2020;VWX-2468;Female;43;2022-05-10;No;severe,65886
+Olivia Wilson;Mercedes-Benz;C-Class;2020;VWX-2468;Female;43;2022-11-07;Yes;non-fatal,18263
+Olivia Wilson;Mercedes-Benz;C-Class;2020;VWX-2468;Female;43;2022-07-19;No;extremely,52623
+Olivia Wilson;Mercedes-Benz;C-Class;2020;VWX-2468;Female;43;2021-07-10;No;non-fatal,90705
+Liam Taylor;Hyundai;Elantra;2017;YZA-8888;Male;25;2021-10-01;Yes;non-fatal,44322
+Liam Taylor;Hyundai;Elantra;2017;YZA-8888;Male;25;2021-03-03;Yes;extremely,24176
+Liam Taylor;Hyundai;Elantra;2017;YZA-8888;Male;25;2021-09-29;No;severe,76500
+Liam Taylor;Hyundai;Elantra;2017;YZA-8888;Male;25;2022-02-26;Yes;severe,63696
+Liam Taylor;Hyundai;Elantra;2017;YZA-8888;Male;25;2020-04-03;No;extremely,60846
+Liam Taylor;Hyundai;Elantra;2017;YZA-8888;Male;25;2021-06-07;No;extremely,61213
+Liam Taylor;Hyundai;Elantra;2017;YZA-8888;Male;25;2022-12-14;Yes;non-fatal,30536
+Liam Taylor;Hyundai;Elantra;2017;YZA-8888;Male;25;2022-07-26;No;non-fatal,13482
+Liam Taylor;Hyundai;Elantra;2017;YZA-8888;Male;25;2022-07-15;No;non-fatal,65450
+Liam Taylor;Hyundai;Elantra;2017;YZA-8888;Male;25;2022-11-28;Yes;severe,80985
+Emma Anderson;Mazda;3;2018;BDF-3579;Female;36;2022-04-29;Yes;severe,88847
+Emma Anderson;Mazda;3;2018;BDF-3579;Female;36;2020-04-12;Yes;non-fatal,50890
+Emma Anderson;Mazda;3;2018;BDF-3579;Female;36;2020-01-25;Yes;non-fatal,39850
+Emma Anderson;Mazda;3;2018;BDF-3579;Female;36;2022-03-17;Yes;extremely,59830
+Emma Anderson;Mazda;3;2018;BDF-3579;Female;36;2022-02-07;Yes;extremely,44294
+Lucas Thomas;Subaru;Outback;2021;GHI-5291;Male;41;2020-10-29;Yes;severe,46586
+Lucas Thomas;Subaru;Outback;2021;GHI-5291;Male;41;2021-06-14;No;non-fatal,29136
+Lucas Thomas;Subaru;Outback;2021;GHI-5291;Male;41;2020-01-30;No;extremely,20333
+Lucas Thomas;Subaru;Outback;2021;GHI-5291;Male;41;2020-07-01;No;non-fatal,99764
+Lucas Thomas;Subaru;Outback;2021;GHI-5291;Male;41;2021-03-09;Yes;extremely,90131
+Lucas Thomas;Subaru;Outback;2021;GHI-5291;Male;41;2020-03-01;Yes;non-fatal,75942
+Lucas Thomas;Subaru;Outback;2021;GHI-5291;Male;41;2021-09-23;No;severe,60760
+Lucas Thomas;Subaru;Outback;2021;GHI-5291;Male;41;2021-08-31;Yes;non-fatal,99512
