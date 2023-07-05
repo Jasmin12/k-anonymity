@@ -4,7 +4,16 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-pyyaml = ">=5.1"
+gretel-client = "*"
+jupyter = "*"
+pandas = "*"
+faker = "*"
+presidio-analyzer = "*"
+presidio-anonymizer = "*"
+faker-vehicle = "*"
+matplotlib = "*"
+scikit-learn = "*"
+algorithms = "*"
 
 [dev-packages]
 
