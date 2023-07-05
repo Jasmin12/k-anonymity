@@ -31,11 +31,11 @@ Results will be in ```results/{dataset}/{method}``` folder
   
 | Evaluate anonymization using information loss metrics |
 |:-------------------------:|
-|<img width="1000" height="600" alt="screen" src="demo/metrics.png"> |
-|<img width="1000" height="600" alt="screen" src="demo/metrics2.png"> |
+|<img width="1000" height="600" alt="screen" src="results/metrics.png"> |
+|<img width="1000" height="600" alt="screen" src="results/metrics2.png"> |
   
 
 | Evaluate anonymization using classification models |
 |:-------------------------:|
-|<img width="1000" height="600" alt="screen" src="demo/metrics_ml.png"> |
-|<img width="1000" height="600" alt="screen" src="demo/metrics_ml2.png"> |
+|<img width="1000" height="600" alt="screen" src="results/metrics_ml.png"> |
+|<img width="1000" height="600" alt="screen" src="results/metrics_ml2.png"> |
